@@ -32,7 +32,7 @@ export default defineConfig({
   },
   envDir: path.resolve(__dirname),
   root: path.resolve(__dirname, "client"),
-  base: "/",
+  base: "/saifchempbl/",
   build: {
     outDir: path.resolve(__dirname, "dist"),
     emptyOutDir: true,
